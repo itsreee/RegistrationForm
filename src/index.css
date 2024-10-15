@@ -1,0 +1,22 @@
+*{
+font-family: "Afacad Flux", serif;
+}
+#bg{
+  background-image: url('https://cdn2.slidemodel.com/wp-content/uploads/7382-01-duotone-gradients-powerpoint-templates-16x9-2.jpg');
+  background-size: cover;
+}
+#box{
+  border: 1px solid black;
+  border-radius: 5px;
+  box-shadow: 5px 5px 10px rgba(0,0,0,0.4), -5px -5px 10px rgb(82, 211, 194);
+}
+#btn1{
+  background-color: rgb(167, 110, 220);
+  width: 200px;
+  border-radius: 2%;
+}
+#btn2{
+  background-color: rgb(167, 110, 220);
+  width: 200px;
+  border-radius: 2%;
+}
